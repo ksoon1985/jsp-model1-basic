@@ -1,0 +1,27 @@
+table{
+	text-align: center;
+	line-height:1;
+	margin-left: auto; margin-right: auto;"
+	
+}
+table, th, td{
+	 border: 1px solid #D1C4E9;
+ }
+ table th, td{
+ padding: 10px;
+ height: 30px;
+ }
+.class01{
+	background: #EDE7F6;
+}
+
+
+.class02{
+	background: #e0eeed;
+	width:80%;
+}
+
+.class-center{
+	margin-left: auto; margin-right: auto;"
+    text-align: center;
+}
